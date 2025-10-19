@@ -1,10 +1,19 @@
-- 👋 Hi, I’m Ibrahim NGOU PARE (@lil-iby)
-- 👀 I’m interested in web development, frontend technologies, and building efficient user interfaces.
-- 🌱 I’m currently learning advanced techniques in Vue.js 3, Laravel and Next js with typeScript as part of my ongoing studies in Software Engineering.
-- 💞️ I’m looking to collaborate on projects involving modern web frameworks like React.js, Vue.js, and Laravel.
-- 📫 How to reach me: 
-  - 📧 Email: ngouibrahim3@gmail.com  
-  - 📱 Phone: +237 656 020 038  
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I thrive on solving algorithmic challenges and love creating intuitive user interfaces that make life easier!
+👋 Salut, moi c’est Ibrahim NGOU PARE (@lil-iby)
 
+👀 Passionné par le développement web, les technologies frontend et la création d’interfaces utilisateurs performantes.
+
+🌱 Actuellement en formation d’ingénieur au CESI de Bordeaux, je maîtrise déjà Vue.js 3, Laravel, Next.js et TypeScript. Mon objectif est désormais d’approfondir mes connaissances en DevOps, notamment dans les domaines de la conteneurisation, de l’intégration continue et du déploiement automatisé.
+
+🐳 Côté DevOps, j’utilise Docker pour la conteneurisation et le déploiement d’applications. Je possède un compte Docker Hub avec plusieurs images personnalisées que j’ai construites et publiées moi-même.
+
+💻 J’aime collaborer sur des projets combinant développement web moderne (React.js, Vue.js, Laravel) et pratiques DevOps (intégration continue, automatisation, conteneurisation).
+
+📫 Me contacter :
+
+📧 Email : ngouibrahim3@gmail.com
+
+📱 Téléphone : +33 07 54 80 30 78
+
+😄 Pronoms : Il / Lui
+
+⚡ Fun fact : J’aime transformer des idées en applications réelles, du code au déploiement 🚀
