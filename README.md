@@ -12,7 +12,7 @@
 
 📧 Email : ngouibrahim3@gmail.com
 
-📱 Téléphone : +33 07 54 80 30 78
+📱 Téléphone : +33 06 10 73 62 61
 
 😄 Pronoms : Il / Lui
 
